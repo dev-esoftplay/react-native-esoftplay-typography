@@ -1,5 +1,5 @@
 # react-native-esoftplay-typography
-a typography helper for react native text
+a typography helper for react native text with Human Interface Guidlines
 
 ## INSTALATION
 ```
